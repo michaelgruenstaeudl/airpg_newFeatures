@@ -6,7 +6,7 @@ A set of new developments for *airpg* (https://doi.org/10.1186/s12859-021-04309-
 ### List of new features:
 1. Identification of genus names in scientific abstracts using *sklearn*
 
-![](https://github.com/michaelgruenstaeudl/airpg_newFeatures/blob/master/figure_matches.png)
+![](https://github.com/michaelgruenstaeudl/airpg_newFeatures/blob/main/figure_matches.png)
 
 ### Generating input for new features
 
